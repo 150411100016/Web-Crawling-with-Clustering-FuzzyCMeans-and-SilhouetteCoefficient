@@ -1,0 +1,9 @@
+What will you learn :
+1. web crawler >> https://www.suara.com/indeks/terkini/all/2019
+2. text preprocessing >> tokenizing, stopword, stemming etc
+3. fiture selection >> drop high correlation algorithm
+4. tf-idf
+5. clustering >> fuzzy c-means and silhouette algorithm
+
+you can see the result of each step in excel_logs directory or 
+you can use the data that have been saved in data_logs directory.
